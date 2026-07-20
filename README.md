@@ -1,3 +1,17 @@
-<img width="364" height="697" alt="Screenshot (416)" src="https://github.com/user-attachments/assets/c8ebe2b2-0939-426a-9c2b-a723806d65f4" />
-# Xylophone
-A vibrant, full-screen Xylophone app that turns your device into a responsive, 7-note interactive musical instrument.
+# xylophone
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
